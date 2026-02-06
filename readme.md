@@ -1,6 +1,3 @@
-Here’s a complete **README.md** you can copy into your project (Data2Dash / InsightGraph). It’s written to be “production-grade” for GitHub: clear setup, troubleshooting, and usage.
-
-```md
 # Data2Dash – Knowledge Graph Extractor (InsightGraph)
 
 Data2Dash is a Streamlit app that turns research papers (PDF/TXT) or pasted text into an interactive **knowledge graph**.  
@@ -210,3 +207,4 @@ pip install pyvis
 * Add search / filtering inside the graph UI
 
 ---
+
