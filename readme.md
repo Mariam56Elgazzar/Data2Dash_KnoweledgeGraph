@@ -1,4 +1,4 @@
-# Data2Dash – Knowledge Graph Extractor (InsightGraph)
+# Data2Dash – Knowledge Graph Extractor
 
 Data2Dash is a Streamlit app that turns research papers (PDF/TXT) or pasted text into an interactive **knowledge graph**.  
 It extracts **entities + relationships** (models, datasets, metrics, methods, results, limitations, etc.), renders them in **PyVis**, and can optionally **sync to Neo4j**.
@@ -207,4 +207,5 @@ pip install pyvis
 * Add search / filtering inside the graph UI
 
 ---
+
 
